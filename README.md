@@ -36,11 +36,11 @@ To deliver a user-friendly, highly visual Tableau dashboard that:
 
 ## 3. Tech Stack / Tools Used
 
-📊 **Tableau Desktop** – Dashboard creation and insights
-🧽 **Excel** – Data cleaning & preprocessing
-🔗 **Data Blending + Joins** – For combining multiple tables
-📉 **Calculated Fields** – Strike Rate, Economy Rate, Win %, Impact Score
-🎛 **Filters, Parameters, Actions** – Interactive exploration
+📊 **Tableau Desktop** – Dashboard creation and insights.
+🧽 **Excel** – Data cleaning & preprocessing.
+🔗 **Data Blending + Joins** – For combining multiple tables.
+📉 **Calculated Fields** – Strike Rate, Economy Rate, Win %, Impact Score.
+🎛 **Filters, Parameters, Actions** – Interactive exploration.
 
 ##  4. Data Source
 **Source:** [IPL Performance Dataset](https://www.kaggle.com/datasets/yash9439/ipl-dataset?select=deliveries.csv)
