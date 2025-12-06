@@ -53,9 +53,6 @@ To deliver a user-friendly, highly visual Tableau dashboard that:
 
 * Matches dataset
 * Deliveries (Ball-by-ball) dataset
-* Players dataset
-* Teams dataset
-* Season metadata
 
 ## 5. Data Model & Table Structure
 
@@ -73,19 +70,6 @@ Contains granular information for every ball bowled.
 **Key Fields:**
 Match_ID, Over, Ball, Batsman, Bowler, Runs, Extras, Dismissal Type, Wicket
 
-### **3. Players Table**
-
-Player information with unique identifiers.
-
-**Key Fields:**
-Player_ID, Player Name, Country, Playing Role
-
-### **4. Teams Table**
-
-Team metadata.
-
-**Key Fields:**
-Team_ID, Team Name, Captain, Franchise Details
 
 ## 6. Dashboard Features & Highlights
 
