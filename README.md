@@ -37,9 +37,13 @@ To deliver a user-friendly, highly visual Tableau dashboard that:
 ## 3. Tech Stack / Tools Used
 
 📊 **Tableau Desktop** – Dashboard creation and insights.
+
 🧽 **Excel** – Data cleaning & preprocessing.
+
 🔗 **Data Blending + Joins** – For combining multiple tables.
+
 📉 **Calculated Fields** – Strike Rate, Economy Rate, Win %, Impact Score.
+
 🎛 **Filters, Parameters, Actions** – Interactive exploration.
 
 ##  4. Data Source
